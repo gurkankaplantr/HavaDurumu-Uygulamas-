@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "P501gy1G8ytRCDMNzxdfTPnc/1ltdbusKO5773SC+Mw0rfWyzZOyaMNjpF4OewuHJ5b4V83+BPuPG9fqlC3PWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gurka\\source\\repos\\C#ödev\\C#ödev\\C#ödev.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gurka\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\gurka\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
